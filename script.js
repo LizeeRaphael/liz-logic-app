@@ -166,7 +166,7 @@ const changeActiveColorClass = () => {
 colorPalette.forEach(color => {
     color.addEventListener('click', () => {
         let primary;
-        // remove active class from coolors
+        // remove active class from colors
         changeActiveColorClass();
 
         if(color.classList.contains('color-1')){
@@ -241,7 +241,7 @@ Bg2.classList.remove('active')
 changeBG();
 });
 
-// End
+// The end
 
 
 
