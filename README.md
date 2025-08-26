@@ -3,8 +3,11 @@ Liz | Logic App🚀
 Liz | Logic is a responsive social web app designed not just for functionality, but for user ownership, flexibility, and experience.
 
 This project reflects my approach:
+
 🔹 Start with structure.
+
 🔹 Focus on real user intentions.
+
 🔹 Build systems that can scale.
 
 𝐓𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐫𝐞𝐚𝐭𝐡𝐞𝐬 𝐚 𝐬𝐨𝐥𝐢𝐝 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐟 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐮𝐬𝐞𝐫𝐬. 𝐈𝐭 𝐬𝐡𝐨𝐰𝐬 𝐈 𝐜𝐚𝐧 𝐭𝐮𝐫𝐧 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐧𝐝 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐭𝐡𝐚𝐭 𝐬𝐭𝐢𝐜𝐤.
@@ -30,23 +33,30 @@ Not just a button → a dare: show up and share.
 Responsive Design 📱💻
 Fully adaptable across devices, clean on desktop, smooth on mobile.
 
+
 🛠️ Tech Stack:
 
 HTML5 → Structure
 
-CSS3 → Styling & responsiveness
 
-JavaScript (Vanilla JS) → Interactivity & logic
+CSS3 → Styling & 
 
-Vercel → Deployment
+
+JavaScript (Vanilla JS) → Interactivity & 
+
+
+Vercel → 
+
 
 GitHub → Version control & documentation
+
 
 ⚡ No frameworks yet. This is intentional. The first version focuses on fundamentals and structure — because no framework can save a bad foundation.
 
 🚀 Live Demo
 
 🔗 Liz | Logic App: https://social-media-app-liz-logic.vercel.app/
+
 
 Lessons & Intentions:
 
